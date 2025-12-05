@@ -1,7 +1,7 @@
 {
-  "versao": "1.3.3",
-  "url_download": "https://github.com/MiguelPCSC/MDNBET/releases/download/v1.3.3/MDN_BET_Controler_v1.3.3.exe",
-  "notas": "V 1.3.3: Correção crítica e final no formato de data (DD/MM/AAAA) em todas as visualizações, e estabilização do processo de atualização para evitar o bloqueio de arquivo.",
+  "versao": "1.4.1",
+  "url_download": "https://github.com/MiguelPCSC/MDNBET/releases/download/v1.4.1/MDN_BET_Controler_v1.4.1.exe",
+  "notas": "V 1.4.1: Correção crítica.",
   "detalhes": [
     "Adicionado painel 'Fluxo de Caixa' no Dashboard com Aportes e Retiradas totais.",
     "Campos de data (Registro/Edição) substituídos por widget de Calendário e botão 'Hoje'.",

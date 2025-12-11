@@ -1,19 +1,11 @@
 {
   "versao": "1.4.3",
   "url_download": "https://github.com/MiguelPCSC/MDNBET/releases/download/v1.4.3/MDN_BET_Controler_v1.4.3.exe",
-  "notas": "O que mudou?
-Aba Registrar Aposta:
-
-Adicionado campo "Retorno Total (Auto-Calc Odd)". Ao digitar nele (tendo o valor da aposta preenchido), a Odd é preenchida automaticamente.
-
-Adicionado botão "✏️ Editar (Mover para Cima)" abaixo do botão Remover.
-
-Lógica de Edição: Ao editar uma pendente, ela é removida da tabela e seus dados voltam para o formulário para você ajustar e salvar de novo..",
+  "notas": "O que mudou?\n\nNOVA ABA REGISTRAR APOSTA:\n- Adicionado campo \"Retorno Total (Auto-Calc Odd)\": Ao digitar o valor total esperado, a Odd é calculada automaticamente.\n- Novo botão \"✏️ Editar (Mover para Cima)\": Permite corrigir apostas pendentes.\n\nCORREÇÕES:\n- Lógica de Edição: Pendentes voltam ao formulário para ajuste.\n- Correção Contábil: A banca agora soma apenas o Lucro Líquido (Net Profit), evitando duplicar o valor da aposta (Stake).",
   "detalhes": [
-    "Adicionado painel 'Fluxo de Caixa' no Dashboard com Aportes e Retiradas totais.",
-    "Campos de data (Registro/Edição) substituídos por widget de Calendário e botão 'Hoje'.",
-    "Sites/Casas agora são forçados a MAIÚSCULAS para evitar duplicação.",
-    "Gráficos Semanal/Mensal corrigidos para mostrar limites exatos (Seg-Dom, Dia 1-Fim).",
-    "Posição atual destacada nos gráficos (marcador Dourado)."
+    "Nova coluna 'Total Retorno' (Bilhete) separada do 'Lucro Líquido'.",
+    "Correção crítica no cálculo de saldo (Banca Atual).",
+    "Funcionalidade de edição de apostas pendentes.",
+    "Calculadora reversa de Odd integrada."
   ]
 }

@@ -1,7 +1,14 @@
 {
-  "versao": "1.4.2",
-  "url_download": "https://github.com/MiguelPCSC/MDNBET/releases/download/v1.4.2/MDN_BET_Controler_v1.4.2.exe",
-  "notas": "V 1.4.2:.",
+  "versao": "1.4.3",
+  "url_download": "https://github.com/MiguelPCSC/MDNBET/releases/download/v1.4.3/MDN_BET_Controler_v1.4.3.exe",
+  "notas": "O que mudou?
+Aba Registrar Aposta:
+
+Adicionado campo "Retorno Total (Auto-Calc Odd)". Ao digitar nele (tendo o valor da aposta preenchido), a Odd é preenchida automaticamente.
+
+Adicionado botão "✏️ Editar (Mover para Cima)" abaixo do botão Remover.
+
+Lógica de Edição: Ao editar uma pendente, ela é removida da tabela e seus dados voltam para o formulário para você ajustar e salvar de novo..",
   "detalhes": [
     "Adicionado painel 'Fluxo de Caixa' no Dashboard com Aportes e Retiradas totais.",
     "Campos de data (Registro/Edição) substituídos por widget de Calendário e botão 'Hoje'.",
